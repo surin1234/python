@@ -1,5 +1,5 @@
 import math
-from cs1graphics import *
+from calgraphics import *
 
 def animate_sunrise(sun):
   w = canvas.getWidth()
